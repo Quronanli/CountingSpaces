@@ -1,0 +1,15 @@
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\bin\Debug\net6.0\CountingSpaces.exe
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\bin\Debug\net6.0\CountingSpaces.deps.json
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\bin\Debug\net6.0\CountingSpaces.runtimeconfig.json
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\bin\Debug\net6.0\CountingSpaces.dll
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\bin\Debug\net6.0\CountingSpaces.pdb
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\obj\Debug\net6.0\CountingSpaces.csproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\obj\Debug\net6.0\CountingSpaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\obj\Debug\net6.0\CountingSpaces.AssemblyInfoInputs.cache
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\obj\Debug\net6.0\CountingSpaces.AssemblyInfo.cs
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\obj\Debug\net6.0\CountingSpaces.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\obj\Debug\net6.0\CountingSpaces.dll
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\obj\Debug\net6.0\refint\CountingSpaces.dll
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\obj\Debug\net6.0\CountingSpaces.pdb
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\obj\Debug\net6.0\CountingSpaces.genruntimeconfig.cache
+C:\Users\maxim\OneDrive\Рабочий стол\CountingSpaces\CountingSpaces\obj\Debug\net6.0\ref\CountingSpaces.dll
